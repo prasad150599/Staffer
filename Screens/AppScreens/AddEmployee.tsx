@@ -74,7 +74,7 @@ const AddEmployee = () => {
 
 const styles = StyleSheet.create({
     inputContainer: {
-        flex: 1,
+        flex: 1
     },
     InputNameText: {
         fontSize: 20,
